@@ -1,9 +1,16 @@
 ### Hi there 👋
-<h3 align="center">🏅Tech Stack🏅<h3>
+<!-- <h3 align="center">🏅Tech Stack🏅<h3>
   <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-  </p>
-
+<img src="https://img.shields.io/badge/C-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-Sharp-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+  </p> -->
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height300&section=header&text=SY%20CodeWorld.👑&fontSize=70)
 
 ![junsj119](https://github-readme-stats.vercel.app/api?username=junsj119&show_icons=true)
