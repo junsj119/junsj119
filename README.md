@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height300&section=header&text=성영%20CodeWorld.👑&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height300&section=header&text=SY%20CodeWorld.👑&fontSize=70)
+
+
+![junsj119](https://github-readme-stats.vercel.app/api?username=junsj119&show_icons=true)
+[![junsj119](https://github-readme-stats.vercel.app/api/top-langs/?username=junsj119&show_icons=true&hide_border=true&title
